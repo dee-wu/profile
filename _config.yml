@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Di Wu"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : ""
-  employer         : ""
+  bio              : #""
+  location         : #""
+  employer         : #""
   uri              : # URL
   email            : "wudi_dy@qq.com" 
 
